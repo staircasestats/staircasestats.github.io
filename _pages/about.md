@@ -5,4 +5,4 @@ header:
   image: "/images/baseball.jpg"
 ---
 
-I am a sports journalist currently living in Madrid and focusing on LaLiga. Many years ago, I studied computing but I left that behind in pursuit of some travelling and trying to figure out what I wanted to do. Back then, data analytics in sports wasn't really a thing unless 
+This is a sports blog with a focus on the analysis of football, NFL, NBA and MLB with a focus on Python and statistical analysis. As a lover of sports, and computing, I decided to learn Python and study statistics to understand the games I watch daily and love more deeply.
