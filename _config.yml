@@ -109,7 +109,7 @@ author:
   name             : "Staircase Stats"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A sports blog."
-  location         : ""
+  location         : "At the game"
   email            :
   links:
     - label: "Email"
