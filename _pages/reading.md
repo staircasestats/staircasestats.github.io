@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "About"
-permalink: /about/
+title: "Reading"
+permalink: /reading/
 author_profile: true
 header:
   image: "/images/baseball.jpg"
