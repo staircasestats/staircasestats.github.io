@@ -1,6 +1,8 @@
 ---
+layour: archive
 title: "About"
 permalink: /about/
+author_profile: true
 header:
   image: "/images/baseball.jpg"
 ---
